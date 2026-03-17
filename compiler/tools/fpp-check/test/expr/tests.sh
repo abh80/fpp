@@ -10,4 +10,5 @@ neg_error
 neg_ok
 paren_ok
 struct_duplicate
+string_concat_ok
 "
