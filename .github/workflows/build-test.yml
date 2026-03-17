@@ -2,7 +2,7 @@ name: FPP CI
 
 on:
   push:
-    branches: [ "main", "release/**" ]
+    branches: [ "main", "release/**", "abh80/*" ]
   pull_request:
     types: [opened, synchronize, reopened, ready_for_review]
 
